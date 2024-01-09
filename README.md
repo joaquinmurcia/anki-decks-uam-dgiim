@@ -1,3 +1,5 @@
+**You need to clone the project or download the .zip in order to download the files**
+
 # anki-decks-uam-dgiim
 A repository with all the Anki Decks I made for studying subjects of the Doble Grado en Ingeniería Informática y Matemáticas at Universidad Autónoma de Madrid
 
